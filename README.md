@@ -1,1 +1,1 @@
-# SQL-class
+# HibernateValidation
